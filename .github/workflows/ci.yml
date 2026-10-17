@@ -1,0 +1,15 @@
+name: CI
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print workflow message
+        run: echo "The CI workflow is running."
+      - name: Show runner system
+        run: echo "Running on ${{ runner.os }}."

@@ -1,0 +1,2 @@
+DevOps helps the development team and the operations team work together during the software development lifecycle.
+Automated tests help the team find and fix errors early.
