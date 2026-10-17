@@ -1,0 +1,1 @@
+This DevOps course introduces version control, collaboration, and continuous integration using Git and GitHub.
