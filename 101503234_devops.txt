@@ -1,2 +1,2 @@
-This DevOps course introduces version control, collaboration, and continuous integration using Git and GitHub.
-Students practise creating branches, writing descriptive commits, opening pull requests, and resolving merge conflicts.
+In this class, students learn how to use Git and GitHub for version control and collaborate with others.
+Students practice creating branches, making commits, opening pull requests, and resolving merge conflicts.
